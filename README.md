@@ -1,6 +1,6 @@
 <h2> Hi, I'm Abdelrhman Khalifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJxZnFxN2R5dWhjZXd0dHl4Z2V3bnF5amg3c256MmQ5MHBpa3Z1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="230">
-<p><em> MERN Stack Developer >
+<p><em> MERN Stack Developer 
 </em></p>
 
 [![Twitter: Abdelrhman](https://img.shields.io/twitter/follow/abdu500k1?style=social)](https://x.com/abdu500k1)
@@ -13,12 +13,10 @@
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Lua],
-  tools: [React, Redux, Node, Expressjs],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Tailwindcss, Bootstrap, JQuery, Node, EJS, Expressjs],
+  databases: ["MongoDB"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Arabic",
-                        mentor: "EducaTRANSforma"
+                      speaker: "Arabic"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
