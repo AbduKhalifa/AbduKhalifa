@@ -12,7 +12,7 @@
 ```javascript
 const khalifa = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Lua],
+  code: [HTML, CSS, Javascript, Lua],
   tools: [React, Redux, Tailwindcss, Bootstrap, JQuery, Node, EJS, Expressjs],
   databases: [MongoDB],
   techCommunities: {
