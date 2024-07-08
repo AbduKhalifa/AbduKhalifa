@@ -13,7 +13,7 @@
 const khalifa = {
   pronouns: "he" | "his",
   code: [HTML, CSS, Javascript, Lua],
-  tools: [React, Redux, Tailwindcss, Bootstrap, JQuery, Node, EJS, Expressjs],
+  tools: [React, Redux, Tailwindcss, Bootstrap, JQuery, Nodejs, EJS, Expressjs],
   databases: [MongoDB],
   techCommunities: {
                       speaker: "Arabic"
