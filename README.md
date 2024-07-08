@@ -4,6 +4,7 @@
 </em></p>
 
 [![Twitter: Abdelrhman](https://img.shields.io/twitter/follow/abdu500k1?style=social)](https://x.com/abdu500k1)
+[![Telegram: Abdelrhman](https://img.shields.io/telegram/follow/abdu500k1?style=social)](https://web.telegram.org/k/#@Yoruu200)
 [![GitHub Thaiane](https://img.shields.io/github/followers/abdelrhman?label=follow&style=social)](https://github.com/AbduKhalifa)
 
 
